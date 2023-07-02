@@ -23,7 +23,7 @@ This is a Chat App Project which is Based on BlockChain Technique.
 
 # Config
 > Frontend
-- change directory to `cd frix_cloud_web`
+- change directory to `cd block_chat_web`
 - Inside the Frontend `/app/chat/page.js` file
 - Replace the Backend Websocket Server IP and Port
 ![ip_port](https://github.com/Yuvaraja28/BlockChat_Tech_Triumph_1.0/assets/64340067/1b595583-7842-4915-bc5a-fe4d473cc365)
